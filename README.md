@@ -8,7 +8,6 @@ A sleek and responsive calculator built using HTML, CSS, and JavaScript. Feature
 ![image](https://github.com/user-attachments/assets/ed12a5a0-fb98-4354-986a-df83b25aa166)
 
 
-![image](https://github.com/user-attachments/assets/e5079ca0-d3a4-405e-af4a-fbcff578f61f)
 
 
 
